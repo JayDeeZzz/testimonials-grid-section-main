@@ -31,10 +31,10 @@
 }
  span{
 }
- main, section{
+ main, .container{
      display: flex;
 }
- section{
+ .container{
      justify-content: center;
      align-items: center;
      margin: 0 auto;
