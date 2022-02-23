@@ -45,7 +45,7 @@
      grid-column-gap: 2.5rem;
      grid-row-gap: 2.5rem;
 }
- .parent > article{
+ .white, .gray{
      border-radius: 0.8rem;
      padding: 2rem;
      box-shadow: var(--lightgray) 0px 10px 10px;
